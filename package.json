@@ -1,0 +1,16 @@
+{
+	"name": "wp-jive-importer",
+	"description": "Import Jive Blog posts to WordPress",
+	"version": "0.1.0",
+	"projectType" : "wordpress-plugin",
+	"keywords": [
+	    "wordpress"
+	],
+	"repository": {
+		"type": "git",
+		"url" : "git@github.com:voceconnect/wp-jive-importer.git"
+	},
+	"devDependencies": {
+		"grunt": "latest"
+	}
+}
